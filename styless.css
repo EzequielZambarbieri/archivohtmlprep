@@ -1,0 +1,27 @@
+.fondo {
+    background-color: aqua;
+}
+.mitexto{
+    font-size: 3em;
+    color: brown;
+}
+
+.titulo{
+    background-color: aquamarine;
+    color: red;
+}
+
+#principal{
+    font-size: 50px;
+    border: 2px solid blue;
+    width: 30vw;
+    margin: 2em;
+    padding: 0em 3em 0em 7em;
+    border-radius: 10%;
+}
+
+.logo{
+    height: 300px;
+    width: 300px;
+}
+
