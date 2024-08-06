@@ -25,3 +25,22 @@
     width: 300px;
 }
 
+.contenedor-imagenes{
+background-color: antiquewhite;
+width: 85vw;
+margin: auto;
+margin-top: 1.5em;
+border: 5px solid black;
+border-radius: 5%;
+padding: 2em;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+
+body{
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
